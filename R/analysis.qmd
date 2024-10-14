@@ -50,7 +50,7 @@ This Quarto document serves as a practical illustration of the concepts covered 
 
 ## Introduction {#section-1}
 
-This document offers a straightforward analysis of the well-known **penguin dataset**. It is designed to complement the [Productive R Workflow](https://www.productive-r-workflow.com/) online course. This is a change in branch1. 
+This document offers a straightforward analysis of the well-known **penguin dataset**. It is designed to complement the [Productive R Workflow](https://www.productive-r-workflow.com/) online course.
 
 
 ::: {.column-margin}
